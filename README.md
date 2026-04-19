@@ -1,4 +1,4 @@
-![Bra-ket Banner](ideogram-)
+![Bra-ket Banner](ideogram-v3.0_A_professional_ultra-wide_YouTube_banner_for_a_channel_named_Bra-ket_Archive_._O-0.jpg)
 # ⟨ Bra-ket Archive | Mauricio ⟩ 
 
 ### Theoretical & Computational Physics 
