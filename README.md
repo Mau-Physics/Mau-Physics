@@ -16,7 +16,7 @@ Building a comprehensive archive of 500+ solved problems from the pillars of mod
 *   **Documentation:** LaTeX (Formal analytical derivations)
 
 ## 🔗 Connect with me:
-[<img src="https://shields.io" />](https://www.youtube.com/channel/UCU8PBiOcpkLhV0_TMgYx2vg) | [<img src="https://shields.io" />](https://www.linkedin.com/in/l%C3%B3pez-merino-mauricio-2548ab322/)
+[![YouTube](https://shields.io)](https://www.youtube.com/channel/UCU8PBiOcpkLhV0_TMgYx2vg) | [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/l%C3%B3pez-merino-mauricio-2548ab322/)
 
 ---
 *"Only those who attempt the absurd can achieve the impossible."*
