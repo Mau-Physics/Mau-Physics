@@ -7,7 +7,7 @@ Building a comprehensive archive of 500+ solved problems from the pillars of mod
 ---
 
 ## 📚 Currently Solving:
-*   **Arfken:** Mathematical Methods for Physicists (Chap. 1: Infinite Series)
+*   **Arfken:** Mathematical Methods for Physicists 
 *   **Jackson:** Classical Electrodynamics
 *   **Sakurai:** Modern Quantum Mechanics
 
